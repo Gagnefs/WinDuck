@@ -27,3 +27,8 @@ Now that we have opened a terminal window, we need to paste the command that is 
 ```ps1
 irm "https://christitus.com/win" | iex
 ```
+
+   - Right click inside the black part of the terminal to paste it in
+   - Press enter
+
+**1.1 Using Winutil:**

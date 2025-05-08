@@ -1,6 +1,6 @@
 # WinDuck
 
-![sans](.cool stuff/sans-_heya..png)
+![sans](.cool%20stuff/sans-_heya..png)
 
 WinDuck is my complete guide on how to set up Windows 11 for as much performance and privacy without installing a single program.
 

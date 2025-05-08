@@ -32,3 +32,24 @@ irm "https://christitus.com/win" | iex
    - Press enter
 
 **1.1 Using Winutil:**
+Winutil is now open in 2 windows, one still in the terminal (which we can ignore) and one in a separate window
+
+   - Click on "tweaks" on the top
+   - Enable the following checkboxes:
+- [x] Delete Temporary Files
+- [x] Disable ConsumerFeatures
+- [x] Disable Telemetry
+- [x] Disable Activity History
+- [x] Disable GameDVR (don't enable this one if you use the built in Game Bar recording, but I would recommend disabling it and using Steam's instead, it barely uses any resources)
+- [x] Disable Homegroup
+- [x] Disable Location Tracking
+- [x] Disable Storage Sense
+- [x] Disable Wifi-Sense
+- [ ] Enable End Task With Right Click (Optional, it adds another button when you right click icons in the taskbar)
+- [x] Run Disc Cleanup
+- [x] Disale Powershell 7 Telemetry
+- [x] Disable Recall
+- [x] Set Services to Manual
+Advanced secton:
+- [x] Disable Background Apps (if you use any wallpaper apps from the Microsoft Store that updates the wallpaper automatically, for example "Dynamic Theme", checking this option will prevent it from working in the background)
+- [ ] 

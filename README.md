@@ -50,6 +50,12 @@ Winutil is now open in 2 windows, one still in the terminal (which we can ignore
 - [x] Disale Powershell 7 Telemetry
 - [x] Disable Recall
 - [x] Set Services to Manual
-Advanced secton:
+
+Advanced section:
 - [x] Disable Background Apps (if you use any wallpaper apps from the Microsoft Store that updates the wallpaper automatically, for example "Dynamic Theme", checking this option will prevent it from working in the background)
-- [ ] 
+- [x] Disable Microsoft Copilot
+- [x] Disable Intel MM (vPro LMS) (this option only works if you have an Intel CPU, skip it if you have AMD like me)
+- [x] Remove ALL MS Store Apps (this option removes every app that has been installed through the Microsoft Store, it also removes the screenshot tool, so make sure that you don't have any data in any Store apps or games that you don't want to loose, you can install them and the screenshot tool (snipping tool) again after finishing this chapter)
+- [x] Remove OneDrive (don't if you use OneDrive)
+
+   - After checking all of these, press the "Run Tweaks" button in the bottom of the screen (you may have to expand the window or scroll down if you can't see it)

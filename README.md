@@ -59,3 +59,12 @@ Advanced section:
 - [x] Remove OneDrive (don't if you use OneDrive)
 
    - After checking all of these, press the "Run Tweaks" button in the bottom of the screen (you may have to expand the window or scroll down if you can't see it)
+
+   - You will know that it is done when the terminal window tells you :)
+     
+**1.1 Using O&O Shutup:**
+Now that we have used the main part of Winutil it is time to use the program built into Winutil, O&O Shutup.
+
+   - In the same "tweaks" section, scroll to the bottom of the page (underneath the advanced section) and press "run O&O Shutup"
+   - Now, it is really important to note that while I may not use any of the privacy-invasive features that we are going to disable, it is possible that you do, so read every single option that we are going to enable.
+   - Enable the following options (so the slider on the right turns green): (there's a LOT, be prepared to take like 15 minutes to do these :))

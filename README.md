@@ -68,3 +68,510 @@ Now that we have used the main part of Winutil it is time to use the program bui
    - In the same "tweaks" section, scroll to the bottom of the page (underneath the advanced section) and press "run O&O Shutup"
    - Now, it is really important to note that while I may not use any of the privacy-invasive features that we are going to disable, it is possible that you do, so read every single option that we are going to enable.
    - Enable the following options (so the slider on the right turns green): (there's a LOT, be prepared to take like 15 minutes to do these :))
+
+Privacy
+
+- [x] Disable and reset Advertising ID and info
+
+- [x] Disable transmission of typing information
+
+- [x] Disable suggestions in the timeline
+
+- [x] Disable suggestions in Start
+
+- [x] Disable tips, tricks, and suggestions when using Windows
+
+- [x] Disable showing suggested content in the Settings app
+
+- [x] Disable the possibility of suggesting to finish the setup of the device
+
+- [ ] Disable app notifications (optional)
+
+- [x] Disable access to local language for browsers
+
+- [x] Disable text suggestions when typing on the software keyboard
+
+- [x] Disable sending URLs from apps to Windows Store
+
+Activity History and Clipboard
+
+- [x] Disable storage of clipboard history (optional)
+
+App Privacy
+
+- [x] Disable app access to user account information
+
+- [x] Disable Windows tracking of app starts
+
+- [x] Disable app access to diagnostics information
+
+- [x] Disable app access to device location
+
+- [ ] Disable app access to camera (enabling this will disable your camera)
+
+- [ ] Disable app access to microphone (enabling this will disable your microphone... I did NOT spend 30 minutes thinking my microphone was broken.)
+
+- [x] Disable app access to use voice activation
+
+- [x] Disable app access to use voice activation when device is locked
+
+- [x] Disable the standard app for the headset button
+
+- [x] Disable app access to notifications
+
+- [x] Disable app access to movements
+
+- [x] Disable app access to contacts
+
+- [x] Disable app access to calendar
+
+- [x] Disable app access to phone calls
+
+- [x] Disable app access to call history
+
+- [x] Disable app access to email
+
+- [x] Disable app access to tasks
+
+- [x] Disable app access to messages
+
+- [x] Disable app access to radios
+
+- [x] Disable app access to unpaired devices
+
+- [x] Disable app access to documents
+
+- [x] Disable app access to images
+
+- [x] Disable app access to videos
+
+- [x] Disable app access to the file system
+
+- [x] Disable app access to wireless technology
+
+- [x] Disable app access to eye tracking
+
+- [x] Disable the ability for apps to take screenshots
+
+- [x] Disable the ability for desktop apps to take screenshots
+
+- [x] Disable the ability for apps to take screenshots without borders
+
+- [x] Disable the ability for desktop apps to take screenshots without margins
+
+- [x] Disable app access to music libraries
+
+- [x] Disable app access to downloads folder
+
+- [x] Prohibit apps from running in the background
+
+
+Microsoft Edge (new version based on Chromium)
+(note: I do not recommend using Edge.)
+
+- [x] Disable tracking in the web
+
+- [x] Disable check for saved payment methods by sites
+
+- [x] Disable personalizing advertising, search, news and other services
+
+- [x] Disable automatic completion of web addresses in address bar
+
+- [x] Disable user feedback in toolbar
+
+- [x] Disable storing and autocompleting of credit card data on websites
+
+- [x] Disable form suggestions
+
+- [x] Disable suggestions from local providers
+
+- [x] Disable search and website suggestions
+
+- [x] Disable shopping assistant in Microsoft Edge
+
+- [x] Disable Edge bar
+
+- [x] Disable Sidebar in Microsoft Edge
+
+- [x] Disable the Microsoft Account Sign-In Button
+
+- [x] Disable Enhanced Spell Checking
+
+- [x] Disable use of web service to resolve navigation errors
+
+- [x] Disable suggestion of similar sites when website cannot be found
+
+- [x] Disable preload of pages for faster browsing and searching
+
+- [x] Disable saving passwords for websites
+
+- [x] Disable site safety services for more information about a visited website (if you NEED to use Edge... don't enable this.)
+
+- [x] Disable SmartScreen Filter (if you NEED to use Edge... don't enable this.)
+
+- [x] Disable typosquatting checker for site addresses (if you NEED to use Edge... don't enable this)
+
+Microsoft Edge (legacy version)
+(again, please use another browser)
+
+- [x] Disable tracking in the web
+
+- [x] Disable page prediction
+
+- [x] Disable search and website suggestions
+
+- [x] Disable Cortana in Microsoft Edge
+
+- [x] Disable showing search history
+
+- [x] Disable form suggestions
+
+- [x] Disable sites saving protected media licenses on my device
+
+- [x] Do not optimize web search results on the task bar for screen reader
+
+- [x] Disable SmartScreen Filter
+
+Synchronization of Windows Settings
+
+- [x] Disable synchronization of all settings
+
+- [x] Disable synchronization of design settings
+
+- [x] Disable synchronization of browser settings
+
+- [x] Disable synchronization of credentials (passwords)
+
+- [x] Disable synchronization of language settings
+
+- [x] Disable synchronization of accessibility settings
+
+- [x] Disable synchronization of advanced Windows settings
+
+- [x] Cortana (Personal Assistant)
+
+- [x] Disable and reset Cortana
+
+- [x] Disable Input Personalization
+
+- [x] Windows Al
+
+- [x] Disable the Windows Copilot
+
+- [x] Disable the Copilot button from the taskbar
+
+- [x] Disable Windows Copilot+ Recall
+
+User Behavior
+
+- [x] Disable the use of diagnostic data for a tailor-made user experience
+
+Windows Explorer
+
+
+- [x] Disable occassionally showing app suggestions in Start menu
+
+- [x] Do not show recently opened items in Jump Lists on "Start" or the taskbar
+
+- [x] Disable ads in Windows Explorer/OneDrive
+
+Lock Screen
+
+- [x] Disable Windows Spotlight
+
+- [x] Disable fun facts, tips, tricks, and more on your lock screen
+
+- [x] Disable notifications on lock screen
+
+Mobile Devices
+
+- [x] Disable access to mobile devices
+
+- [x] Disable Phone Link app
+
+- [x] Disable showing suggestions for using mobile devices with Windows
+
+Search
+
+- [x] Disable search with Al in search box
+
+- [x] Disable extension of Windows search with Bing
+
+Taskbar
+
+- [x] Disable People icon in the taskbar
+
+- [x] Disable search box in task bar
+
+- [x] Disable "Meet now" in the task bar
+
+- [x] Disable widgets in Windows Explorer
+
+Miscellaneous
+
+- [x] Disable feedback reminders
+
+- [x] Disable automatic installation of recommended Windows Store Apps
+
+- [x] Disable tips, tricks, and suggestions while using Windows
+
+- [x] Disable Windows Media Player Diagnostics
+
+- [x] Disable the desktop icon for information on "Windows Spotlight"
+
+Privacy
+
+- [x] Disable sharing of handwriting data
+
+- [x] Disable sharing of handwriting error reports
+
+- [x] Disable Inventory Collector
+
+- [x] Disable camera in logon screen
+
+- [x] Disable and reset Advertising ID and info for the machine
+
+- [x] Disable advertisements via Bluetooth
+
+- [x] Disable the Windows Customer Experience Improvement Program
+
+- [x] Disable backup of text messages into the cloud
+
+- [x] Disable Windows Error Reporting
+
+- [x] Disable biometrical features
+
+Activity History and Clipboard
+
+- [x] Disable recordings of user activity
+
+- [x] Disable storing users' activity history
+
+- [x] Disable the submission of user activities to Microsoft
+
+- [x] Disable storage of clipboard history for whole machine
+
+- [x] Disable the transfer of the clipboard to other devices via the cloud
+
+App Privacy
+
+- [x] Disable app access to user account information
+
+- [x] Disable app access to diagnostics information
+
+- [x] Disable app access to device location
+
+- [ ] Disable app access to camera
+
+- [ ] Disable app access to microphone
+
+- [x] Disable app access to notifications
+
+- [x] Disable app access to motion
+
+- [x] Disable app access to contacts
+
+- [x] Disable app access to calendar
+
+- [x] Disable app access to phone calls
+
+- [x] Disable app access to call history
+
+- [x] Disable app access to email
+
+- [x] Disable app access to tasks
+
+- [x] Disable app access to messages
+
+- [x] Disable app access to radios
+
+- [x] Disable app access to unpaired devices
+
+- [x] Disable app access to documents
+
+- [x] Disable app access to images
+
+- [x] Disable app access to videos
+
+- [x] Disable app access to the file system
+
+- [x] Disable app access to wireless equipment
+
+- [x] Disable app access to eye tracking
+
+- [x] Disable the ability for apps to take screenshots
+
+- [x] Disable the ability for apps to take screenshots without borders
+
+- [x] Disable app access to music libraries
+
+- [x] Disable app access to downloads folder
+
+Security
+
+- [x] Disable password reveal button
+
+- [x] Disable user steps recorder
+
+- [x] Disable telemetry
+
+- [ ] Disable Internet access of Windows Media Digital Rights Management (DRM)
+
+Microsoft Edge (new version based on Chromium)
+
+- [x] Disable tracking in the web
+
+- [x] Disable check for saved payment methods by sites
+
+- [x] Disable personalizing advertising, search, news and other services
+
+- [x] Disable automatic completion of web addresses in address bar
+
+- [x] Disable user feedback in toolbar
+
+- [x] Disable storing and autocompleting of credit card data on websites
+
+- [x] Disable form suggestions
+
+- [x] Disable suggestions from local providers
+
+- [x] Disable search and website suggestions
+
+- [x] Disable shopping assistant in Microsoft Edge
+
+- [x] Disable Edge bar
+
+- [x] Disable Sidebar in Microsoft Edge
+
+- [x] Disable the Microsoft Account Sign-In Button
+
+- [x] Disable Enhanced Spell Checking
+
+- [x] Disable use of web service to resolve navigation errors
+
+- [x] Disable suggestion of similar sites when website cannot be found
+
+- [x] Disable preload of pages for faster browsing and searching
+
+- [x] Disable saving passwords for websites
+
+- [x] Disable site safety services for more information about a visited website
+
+- [x] Disable automatic redirection from Internet Explorer to Microsoft Edge
+
+- [ ] Disable SmartScreen Filter
+
+- [ ] Disable typosquatting checker for site addresses
+
+Microsoft Edge (legacy version)
+
+- [x] Disable automatic completion of web addresses in address bar
+
+- [x] Disable user feedback in toolbar
+
+- [x] Disable storing and autocompleting of credit card data on websites
+
+- [x] Disable Microsoft Edge launch in the background
+
+- [x] Disable loading the start and new tab pages in the background
+
+- [x] Cortana (Personal Assistant)
+
+- [x] Disable online speech recognition
+
+- [x] Cortana and search are disallowed to use location
+
+- [x] Disable web search from Windows Desktop Search
+
+- [x] Disable display web results in Search
+
+- [x] Disable download and updates of speech recognition and speech synthesis models
+
+- [x] Disable cloud search
+
+- [x] Disable Cortana above lock screen
+
+- [x] Disable the search highlights in the taskbar
+
+Windows Al
+
+Disable the Windows Copilot
+
+Disable Windows Copilot+ Recall
+
+Location Services
+
+Disable functionality to locate the system
+
+Disable scripting functionality to locate the system
+
+Disable sensors for locating the system and its orientation
+
+Disable Windows Geolocation Service
+
+User Behavior
+
+Disable application telemetry
+
+Disable diagnostic data from customizing user experiences for whole machine
+
+Disable diagnostic log collection
+
+Disable downloading of OneSettings configuration settings
+
+Windows Update
+
+Disable Windows Update via peer-to-peer
+
+Disable updates to the speech recognition and speech synthesis modules.
+
+Activate deferring of upgrades
+
+Disable automatic downloading manufacturers' apps and icons for devices
+
+Disable automatic driver updates through Windows Update
+
+Disable automatic app updates through Windows Update
+
+Disable Windows dynamic configuration and update rollouts
+Disable automatic Windows Updates
+
+Disable Windows Updates for other products (e.g. Microsoft Office)
+
+Windows Explorer
+Disable OneDrive access to network before login
+
+Disable Microsoft OneDrive
+
+Microsoft Defender and Microsoft SpyNet
+Disable Microsoft SpyNet membership
+
+Disable submitting data samples to Microsoft
+
+Disable reporting of malware infection information
+
+Mobile Devices
+
+Disable connecting the PC to mobile devices
+
+Taskbar
+
+Disable "Meet now" in the task bar
+
+Disable news and interests in the task bar
+
+Miscellaneous
+
+Disable feedback reminders
+
+Disable remote assistance connections to this computer
+
+Disable remote connections to this computer
+
+Disable Key Management Service Online Activation
+
+Disable automatic download and update of map data
+
+Disable unsolicited network traffic on the offline maps settings page
+
+Disable Network Connectivity Status Indicator

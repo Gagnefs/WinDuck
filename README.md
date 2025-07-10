@@ -577,20 +577,37 @@ Miscellaneous
 
 - [x] Disable unsolicited network traffic on the offline maps settings page
 
+- [ ] Disable Network Connectivity Status Indicator
+
 ## Chapter 2: NextDNS
 
 Now we have disabled as much garbage running in the background as we possibly can, however, Windows will STILL "phone home", which could be invasive to your privacy. To mitigate this, we will set up NextDNS.
+
+**2.1 Creating NextDNS account and changing DNS:**
 
    - Go to the [official NextDNS website](https://nextdns.io/)
    - Click "my nextdns io" on the top
    - Click sign up and sign up
    - Scroll down to "setup guide", click Wndows and follow the setup guide (they probably explain it better than me lol)
 
+**2.2 Configuring NextDNS:**
+NextDNS has very weak tracker-blocking by default, but it's super easy to make it very good:
 
+   - Click "Security"
+   - Enable as much as you want here :) I enabled all of the options (except Block Top-Level Domains (TLDs))
+   - Click "Privacy"
+   - Click "Add a Blocklist"
+   - Search for "HaGeZi - Multi ULTIMATE" and click add, then close the blocklist window
+   - Scroll down to "Native Tracking Protection", click "add" and select Windows
+   - Scroll down and enable "Block Disguised Third-Party Trackers"
+   - Scroll to the top again and press "Settings"
+   - Enable "Anonymized EDNS Client Subnet" and "Cache Boost"
+   - NextDNS is now fully configured!!!
 
+**2.2 Blocking... EVERY SINGLE MICROSOFT CONNECTION??? (optional):**
+Or is it.
+NextDNS will now block every tracking connection that Wndows does, however, there are still Microsoft services that Windows connects to, which *could* be considered privacy invasive. 
+This step is pretty extreme and optional, but if you are like me and dont use and Microsoft services anyway (except Windows update), then why not.
 
-
-
-
-
-- [ ] Disable Network Connectivity Status Indicator
+   - Click "Allow Allowlist"
+   - Add

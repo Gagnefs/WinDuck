@@ -606,8 +606,15 @@ NextDNS has very weak tracker-blocking by default, but it's super easy to make i
 
 **2.2 Blocking... EVERY SINGLE MICROSOFT CONNECTION??? (optional):**
 Or is it.
-NextDNS will now block every tracking connection that Wndows does, however, there are still Microsoft services that Windows connects to, which *could* be considered privacy invasive. 
+NextDNS will now block every tracking connection that Wndows does, however, there are still Microsoft services that Windows connects to, which can be considered privacy invasive. 
 This step is pretty extreme and optional, but if you are like me and dont use and Microsoft services anyway (except Windows update), then why not.
 
-   - Click "Allow Allowlist"
+   - Click  "Allowlist"
+   - Enter [every single domain separately](https://github.com/Gagnefs/WinDuck/blob/main/cool%20stuff/NextDNS%20Allowlist) (these are all required for Windows Update to work)
+   - Click "Denylist"
+   - Enter [Every single domain separately](https://github.com/Gagnefs/WinDuck/blob/main/cool%20stuff/NextDNS%20Denylist) (I know there's a lot. Blame Microsoft for all of this)
+   - Actually done!!! Reboot to see everything being blocked in "Logs". This will also block trackers from other apps as well.
+
+
+
    - Add

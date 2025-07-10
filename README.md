@@ -32,6 +32,7 @@ irm "https://christitus.com/win" | iex
    - Press enter
 
 **1.1 Using Winutil:**
+
 Winutil is now open in 2 windows, one still in the terminal (which we can ignore) and one in a separate window
 
    - Click on "tweaks" on the top
@@ -625,3 +626,45 @@ NextDNS has a limit on how many free queries you get per month. The limit is pre
    - Click "Settings"
    - Click "Privacy & Security" and scroll to the bottom
    - Click "Max Protection" and select either CloudFlare or NextDNS (it does not use the same NextDNS account you made)
+
+
+
+## Chapter 3: Small Stuff That Runs In The Background All The Time For Some Reason
+
+Wndows has a bunch of services that keep running in the background, while we have disabled most of them already, there are a few more that require *manual intervention* (this step is very optional and probably doesn't impact performance at all, but... I still do it) 
+
+**3.1 Disabling Services:**
+
+   - Press the Windows button
+   - type "services.msc" (without "") and click enter
+   - Find and set [These services](https://github.com/Gagnefs/WinDuck/blob/main/cool%20stuff/services.msc) to "manual"
+
+**3.2 Removing Phone Link and Web Experiece Pack:**
+
+   - Right click the Wndows button
+   - Cick Terminal (admin)
+   - Type:
+```ps1
+winget uninstall "Phone Link"
+```
+   - Press enter
+   - Type:
+```ps1
+winget uninstall "Windows Web Experience Pack"
+```
+   - Press enter
+   - Note: If you have a different language on your Windows the names may be different. To find out what they are called, type:
+```ps1
+winget list
+```
+
+
+**3.3 Turning off Microsoft Edge updating in the background:**
+
+For some INSANE reason, Microsoft added a scheduled task to update Microsoft Edge, even if you uninstalled it (in the EU), or turned it off, to disable it:
+
+   - Press the Windows button
+   - type "taskschd.msc" (without "") and click enter
+   - Delete "MicrosoftEdgeUpdateTaskMachineCore", "MicrosoftEdgeUpdateTaskMachineUA", "MicrosoftEdgeUpdateTaskUserS-1-5-21.......Core" and "MicrosoftEdgeUpdateTaskUserS-1-5-21.......UA"
+
+

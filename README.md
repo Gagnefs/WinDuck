@@ -604,7 +604,7 @@ NextDNS has very weak tracker-blocking by default, but it's super easy to make i
    - Enable "Anonymized EDNS Client Subnet" and "Cache Boost"
    - NextDNS is now fully configured!!!
 
-**2.2 Blocking... EVERY SINGLE MICROSOFT CONNECTION??? (optional):**
+**2.3 Blocking... EVERY SINGLE MICROSOFT CONNECTION??? (optional):**
 Or is it.
 NextDNS will now block every tracking connection that Wndows does, however, there are still Microsoft services that Windows connects to, which can be considered privacy invasive. 
 This step is pretty extreme and optional, but if you are like me and dont use and Microsoft services anyway (except Windows update), then why not.
@@ -615,6 +615,13 @@ This step is pretty extreme and optional, but if you are like me and dont use an
    - Enter [Every single domain separately](https://github.com/Gagnefs/WinDuck/blob/main/cool%20stuff/NextDNS%20Denylist) (I know there's a lot. Blame Microsoft for all of this)
    - Actually done!!! Reboot to see everything being blocked in "Logs". This will also block trackers from other apps as well.
 
+**2.4 Setting the browser to not use NextDNS:**
+
+NextDNS has a limit on how many free queries you get per month. The limit is pretty high for 1 device, but this combined with the fact that the Hagezi list is very aggressive and may break some webstes, you may want to set up DNS over HTTPS in your browser.
 
 
-   - Add
+   - If you aren't already using Firefox, install it.
+   - Click the menu button in the top right
+   - Click "Settings"
+   - Click "Privacy & Security" and scroll to the bottom
+   - Click "Max Protection" and select either CloudFlare or NextDNS (it does not use the same NextDNS account you made)

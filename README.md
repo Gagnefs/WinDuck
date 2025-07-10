@@ -577,4 +577,20 @@ Miscellaneous
 
 - [x] Disable unsolicited network traffic on the offline maps settings page
 
+## Chapter 2: NextDNS
+
+Now we have disabled as much garbage running in the background as we possibly can, however, Windows will STILL "phone home", which could be invasive to your privacy. To mitigate this, we will set up NextDNS.
+
+   - Go to the [official NextDNS website](https://nextdns.io/)
+   - Click "my nextdns io" on the top
+   - Click sign up and sign up
+   - Scroll down to "setup guide", click Wndows and follow the setup guide (they probably explain it better than me lol)
+
+
+
+
+
+
+
+
 - [ ] Disable Network Connectivity Status Indicator

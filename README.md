@@ -495,83 +495,86 @@ Microsoft Edge (legacy version)
 
 Windows Al
 
-Disable the Windows Copilot
+- [x] Disable the Windows Copilot
 
-Disable Windows Copilot+ Recall
+- [x] Disable Windows Copilot+ Recall
 
 Location Services
 
-Disable functionality to locate the system
+- [x] Disable functionality to locate the system
 
-Disable scripting functionality to locate the system
+- [x] Disable scripting functionality to locate the system
 
-Disable sensors for locating the system and its orientation
+- [x] Disable sensors for locating the system and its orientation
 
-Disable Windows Geolocation Service
+- [x] Disable Windows Geolocation Service
 
 User Behavior
 
-Disable application telemetry
+- [x] Disable application telemetry
 
-Disable diagnostic data from customizing user experiences for whole machine
+- [x] Disable diagnostic data from customizing user experiences for whole machine
 
-Disable diagnostic log collection
+- [x] Disable diagnostic log collection
 
-Disable downloading of OneSettings configuration settings
+- [x] Disable downloading of OneSettings configuration settings
 
 Windows Update
 
-Disable Windows Update via peer-to-peer
+- [x] Disable Windows Update via peer-to-peer (this will NOT disable updates)- [x] 
 
-Disable updates to the speech recognition and speech synthesis modules.
+- [x] Disable updates to the speech recognition and speech synthesis modules.
 
-Activate deferring of upgrades
+- [x] Activate deferring of upgrades
 
-Disable automatic downloading manufacturers' apps and icons for devices
+- [x] Disable automatic downloading manufacturers' apps and icons for devices
 
-Disable automatic driver updates through Windows Update
+- [ ] Disable automatic driver updates through Windows Update
 
-Disable automatic app updates through Windows Update
+- [ ] Disable automatic app updates through Windows Update
 
-Disable Windows dynamic configuration and update rollouts
-Disable automatic Windows Updates
+- [ ] Disable Windows dynamic configuration and update rollouts
 
-Disable Windows Updates for other products (e.g. Microsoft Office)
+- [ ] Disable automatic Windows Updates
+
+- [x] Disable Windows Updates for other products (e.g. Microsoft Office)
 
 Windows Explorer
-Disable OneDrive access to network before login
 
-Disable Microsoft OneDrive
+- [x] Disable OneDrive access to network before login
+
+- [x] Disable Microsoft OneDrive (if you don't use OneDrive... but I recommend using something else, or OneDrive in the web browser.)
 
 Microsoft Defender and Microsoft SpyNet
-Disable Microsoft SpyNet membership
 
-Disable submitting data samples to Microsoft
+- [x] Disable Microsoft SpyNet membership
 
-Disable reporting of malware infection information
+- [x] Disable submitting data samples to Microsoft
+
+- [x] Disable reporting of malware infection information
 
 Mobile Devices
 
-Disable connecting the PC to mobile devices
+- [x] Disable connecting the PC to mobile devices
 
 Taskbar
 
-Disable "Meet now" in the task bar
+- [x] Disable "Meet now" in the task bar
 
-Disable news and interests in the task bar
+- [x] Disable news and interests in the task bar
 
 Miscellaneous
 
-Disable feedback reminders
+- [x] Disable feedback reminders
 
-Disable remote assistance connections to this computer
+- [x] Disable remote assistance connections to this computer
 
-Disable remote connections to this computer
+- [x] Disable remote connections to this computer (Third party apps like Steam Link still work with this disabled.)
 
-Disable Key Management Service Online Activation
+- [ ] Disable Key Management Service Online Activation
 
-Disable automatic download and update of map data
+- [x] Disable automatic download and update of map data
 
-Disable unsolicited network traffic on the offline maps settings page
+- [x] Disable unsolicited network traffic on the offline maps settings page
 
-Disable Network Connectivity Status Indicator
+- [ ] Disable Network Connectivity Status Indicator

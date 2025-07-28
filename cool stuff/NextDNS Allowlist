@@ -1,10 +1,10 @@
-*.fe3cr.delivery.mp.microsoft.com
-*.tlu.dl.delivery.mp.microsoft.com
-*.kv501.prod.do.dsp.mp.microsoft.com
-*.geover.prod.do.dsp.mp.microsoft.com
-*.geo.prod.do.dsp.mp.microsoft.com
-*.slscr.update.microsoft.com
-*.checkappexec.microsoft.com
-*.windowsupdate.com
-*.fe2cr.update.microsoft.com
-*.time.windows.com
+*.fe3cr.delivery.mp.microsoft.com                                                              #Only required for the monthly cumulative updates, they will get stuck at 0% if not allowed
+*.tlu.dl.delivery.mp.microsoft.com                                                             #Only required for the monthly cumulative updates, they will get stuck at 0% if not allowed
+*.kv501.prod.do.dsp.mp.microsoft.com                                                           #Only required for the monthly cumulative updates, they will get stuck at 0% if not allowed
+*.geover.prod.do.dsp.mp.microsoft.com                                                          #Only required for the monthly cumulative updates, they will get stuck at 0% if not allowed
+*.geo.prod.do.dsp.mp.microsoft.com                                                             #Only required for the monthly cumulative updates, they will get stuck at 0% if not allowed
+*.slscr.update.microsoft.com                                                                   #Required for all updates including security updates
+*.checkappexec.microsoft.com                                                                   #Only required for Smart Screen, not required but it won't show certificates when installing stuff
+*.windowsupdate.com                                                                            #Required for all updates including security updates
+*.fe2cr.update.microsoft.com                                                                   #Required for all updates including security updates
+*.time.windows.com                                                                             #Required for the Windows clock to not de-sync, which will break your web browser
